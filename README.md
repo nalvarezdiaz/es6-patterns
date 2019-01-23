@@ -3,4 +3,6 @@
 The main aim of this repository is put in practice the most common ES6 patterns
 
 ## TODO List with Observer pattern
-[Observable example](https://github.com/nalvarezdiaz/es6-patterns/tree/master/observer)
+[Demo Example](https://nalvarezdiaz.github.io/es6-patterns/observer/index.html)
+
+[Code example](https://github.com/nalvarezdiaz/es6-patterns/tree/master/docs/observer)
