@@ -53,7 +53,7 @@ class TodoList {
 ```
 
 ## Using
-In the [demo](http://localhost:63342/es6-patterns/observer/index.html) when __save__ button is pressed, 
+In the [demo](https://nalvarezdiaz.github.io/es6-patterns/observer/index.html) when __save__ button is pressed, 
 a new TodoItem is created as follows:
 
 ```javascript
